@@ -64,11 +64,10 @@ python-ds-teaching/
 
 # Launch Jupyter
 jupyter 
-```
 
 ---
 
-## 🔑 Key Highlights
+## Key Highlights
 
 ### Why implement Neural Networks from scratch ?
 
